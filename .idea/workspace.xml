@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3fef89f3-c951-46e8-830e-376d463c3993" name="Changes" comment="Daily Training 17/10/24" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TRAINING_14_10_24" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RICAYALOP&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RICAYALOP/DailyTrainingQA.git&quot;,
+    &quot;accountId&quot;: &quot;05723d4b-43a0-4a64-92ed-0175ec48925b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mMmchBzkePZxCQQfgOWebM9lfs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.GoogleTest.executor": "Run",
+    "TestNG.OrangeHRMTest.executor": "Run",
+    "TestNG.OrangeHRMTest.testOrangeHRMFlow.executor": "Debug",
+    "TestNG.SwagLabsTest.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/flash_fen85nm/Documents/WORK/A1QA/DailyTrain",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\flash_fen85nm\Documents\WORK\A1QA\DailyTrain" />
+      <recent name="C:\Users\flash_fen85nm\Documents\WORK\A1QA\DailyTrain\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fef89f3-c951-46e8-830e-376d463c3993" name="Changes" comment="" />
+      <created>1726894904133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726894904133</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Daily Training 20/09/24">
+      <option name="closed" value="true" />
+      <created>1726896334668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726896334668</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Daily Training 21/09/24">
+      <option name="closed" value="true" />
+      <created>1726982025707</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726982025707</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Daily Training 22/09/24">
+      <option name="closed" value="true" />
+      <created>1727061558910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727061558910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Daily Training 23/09/24">
+      <option name="closed" value="true" />
+      <created>1727155172985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727155172985</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Daily Training 24/09/24">
+      <option name="closed" value="true" />
+      <created>1727239197475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727239197475</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Daily Training 25/09/24">
+      <option name="closed" value="true" />
+      <created>1727324386115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727324386115</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Daily Training 26/09/24">
+      <option name="closed" value="true" />
+      <created>1727408014600</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727408014600</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Daily Training 28/09/24">
+      <option name="closed" value="true" />
+      <created>1727584417418</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727584417418</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Daily Training 03/10/24">
+      <option name="closed" value="true" />
+      <created>1728018614109</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1728018614110</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Daily Training 13/10/24">
+      <option name="closed" value="true" />
+      <created>1728879677454</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728879677456</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Daily Training 14/10/24">
+      <option name="closed" value="true" />
+      <created>1728971754739</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728971754739</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Daily Training 17/10/24">
+      <option name="closed" value="true" />
+      <created>1729225600423</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729225600423</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Daily Training 20/09/24" />
+    <MESSAGE value="Daily Training 21/09/24" />
+    <MESSAGE value="Daily Training 22/09/24" />
+    <MESSAGE value="Daily Training 23/09/24" />
+    <MESSAGE value="Daily Training 24/09/24" />
+    <MESSAGE value="Daily Training 25/09/24" />
+    <MESSAGE value="Daily Training 26/09/24" />
+    <MESSAGE value="Daily Training 28/09/24" />
+    <MESSAGE value="Daily Training 03/10/24" />
+    <MESSAGE value="Daily Training 13/10/24" />
+    <MESSAGE value="Daily Training 14/10/24" />
+    <MESSAGE value="Daily Training 17/10/24" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily Training 17/10/24" />
+  </component>
+</project>
